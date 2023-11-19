@@ -32,13 +32,6 @@
    <tr><td width="17%" valign="bottom"><img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/10ade88bd24e1860e80490b7c4c98561.png/s/600x/a/159627/sc/101"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>. 2023</td></tr>
   </table>
 
-## Diploma project
-Implemented during training at the School of Test Automation Engineers QA GURU
-
-## UI + API  Test
-:link: Test project: <a target="_blank" href="https://github.com/IAM-AM/reqres_diploma_api_ui">API_diploma</a></br></br>
-:heavy_check_mark: Training project on realization of autotesting UI + API for https://reqres.in/. </br></br>
-
 ## :bar_chart:Git stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAM-AM&theme=tokyonight)
