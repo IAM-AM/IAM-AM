@@ -50,7 +50,7 @@ Implemented during training at the School of Test Automation Engineers QA GURU
 
 
 </br></br>
-:cherry_blossom: <a target="_blank" href="https://t.me/AliaksandrAM">t.me/AliaksandrAM</a>
+<a target="_blank" href="https://t.me/AliaksandrAM">t.me/AliaksandrAM</a>
 
     
   
