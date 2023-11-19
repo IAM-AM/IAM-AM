@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/LariLotus" target="_blank">Larisa</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/IAM-AM" target="_blank">Aliaksandr</a> </h1>
 <h3 align="center">QA engineer</h3>
 
 - I've been working as QA Engineer since 2019
