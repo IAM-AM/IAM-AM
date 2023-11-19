@@ -47,10 +47,3 @@ Implemented during training at the School of Test Automation Engineers QA GURU
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IAM-AM&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IAM-AM&theme=tokyonight)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IAM-AM&theme=tokyonight)
-
-
-</br></br>
-<a target="_blank" href="https://t.me/AliaksandrAM">t.me/AliaksandrAM</a>
-
-    
-  
