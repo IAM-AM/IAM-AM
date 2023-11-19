@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aliaksandr - Automation QA Engineer</h1>
+### Hi there, I'm Aliaksandr - Automation QA Engineer
 
 - I've been working as QA Engineer since 2019
 - I’m currently learning QA Automation on Python
