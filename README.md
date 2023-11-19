@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Aliaksandr - Automation QA Engineer - Aliaksandr </h1>
-<h3 align="center">QA engineer</h3>
+<h1 align="center">Hi there, I'm Aliaksandr - Automation QA Engineer</h1>
 
 - I've been working as QA Engineer since 2019
 - I’m currently learning QA Automation on Python
