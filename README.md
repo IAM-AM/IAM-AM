@@ -32,12 +32,6 @@
 
 ## :man_student:Education
 <table width="100%" border='0'>
-   <tr> 
-    <td width="25%" valign="bottom"><img src="https://zabgu.ru/photo/html_document/images/Simvolika_universiteta_34887949.png"></td><td valign="middle">Transbaikal State University.</br>Master 2014</td></tr>
-  </table>
-  
-  #### Additional Education:
-<table width="100%" border='0'>
    <tr><td width="17%" valign="bottom"><img src="https://fs-thb03.getcourse.ru/fileservice/file/thumbnail/h/10ade88bd24e1860e80490b7c4c98561.png/s/600x/a/159627/sc/101"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>. 2023</td></tr>
   </table>
 
