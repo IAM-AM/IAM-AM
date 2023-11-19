@@ -21,6 +21,7 @@
 <code><img width="5%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"></code>
+<code><img width="5%" title="Jenkins" src="https://aerokube.com/selenoid/latest/img/og-image.jpg"></code>
 <code><img width="5%" title="Postman" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 </code>
 </p>
