@@ -4,7 +4,6 @@
 - I've been working as QA Engineer since 2019
 - I’m currently learning QA Automation on Python
 - Reach me at **aliaksandr.manko1@gmail.com**
-- Contacts:
 
 
 ### Connect with me:
