@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/IAM-AM" target="_blank">Aliaksandr</a> </h1>
+<h1 align="center">Hi there, I'm Aliaksandr - Autimation QA Engineer <a href="https://github.com/IAM-AM" target="_blank">Aliaksandr</a> </h1>
 <h3 align="center">QA engineer</h3>
 
 - I've been working as QA Engineer since 2019
@@ -21,8 +21,6 @@
 <code><img width="5%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"></code>
 <code><img width="5%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
-<code><img width="5%" title="SQL" src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg"></code>
-<code><img width="5%" title="Selenoid" src="https://diginomica.com/sites/default/files/images/2017-09/docker-container.jpg"></code>
 <code><img width="5%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"></code>
 <code><img width="5%" title="Postman" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 </code>
