@@ -1,4 +1,4 @@
-### Hi there, I'm Aliaksandr - Automation QA Engineer
+### Hi there, I'm Aliaksandr - QA Engineer
 
 - I've been working as QA Engineer since 2019
 - I’m currently learning QA Automation on Python
